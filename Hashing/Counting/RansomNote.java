@@ -1,4 +1,4 @@
-package Hashing;
+package Hashing.Counting;
 import java.util.*;
 
 /**
