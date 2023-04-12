@@ -1,5 +1,7 @@
 package LinkedList.ReverseLinkedList;
 
+import StacksAndQueues.StringProblems.ListNode;
+
 /**
  * DESCRIPTION
  * In a linked list of size n, where n is even, the ith node (0-indexed) of the linked list is known as the twin of the (n-1-i)th node, 
